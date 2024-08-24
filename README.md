@@ -23,7 +23,7 @@ Key Steps:
 
 -Optionally, add a description, README file, .gitignore file, and a license.
 
-4. Clone the Repository: Clone it to your local machine using the git clone command.
+3. Clone the Repository: Clone it to your local machine using the git clone command.
    
 Important Decisions:
 
